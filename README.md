@@ -7,4 +7,4 @@ The objective is to predict how good a team will perform in a particualar NBA se
   4. Whether or not a team will make it to the season finals
   5. Whether or not a team will be the champions of that season
   
-Algorithms used are Decision tree model and K-nearest neighbors. Leave One Out Cross Validation has also been used for both these models along with feature reduction and feature selection for KNN.
+Algorithms used are Decision tree model and K-nearest neighbors. Leave One Out Cross Validation has also been implemented for both these models along with feature reduction and feature selection for KNN.
